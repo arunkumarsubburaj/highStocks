@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+span.material-icons.rotate {
+  transform: rotate(90deg);
+}
+
+span.material-icons {
+  width: 40px;
+  height: 40px;
+  border: 1px solid;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
